@@ -1,0 +1,25 @@
+{
+  "query": "100 dolar altında, iyi puanlı, hediyelik bir ürün öner",
+  "timestamp": "2026-08-14T00:27:51.600486+00:00",
+  "extracted_criteria": {
+    "budget": 100.0,
+    "quantity": 1,
+    "min_rating": 4.0,
+    "in_stock_only": false,
+    "keywords": ["handcrafted", "copper", "decorative", "gift"]
+  },
+  "candidates_evaluated": 1,
+  "recommendations": [
+    {
+      "id": "ALF-0015",
+      "title": "Handcrafted Hammered Copper Incense Burner - Dark Copper with Wooden Handle",
+      "price": 79.0,
+      "currency": "USD",
+      "url": "https://alfiqcopper.com/products/handcrafted-hammered-copper-incense-burner",
+      "stock_status": "in_stock",
+      "rating": 4.7,
+      "review_count": 23,
+      "reason": "Handcrafted Hammered Copper Incense Burner, 79 dolarlık fiyatıyla kullanıcının 100 dolar bütçesine uygun ve yüksek puanlı (4.7★) bir hediyelik seçenektir. Bakır işçiliği ve dekoratif tasarımı ile güzel bir hediye olabilir."
+    }
+  ]
+}

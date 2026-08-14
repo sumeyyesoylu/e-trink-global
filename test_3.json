@@ -1,0 +1,25 @@
+{
+  "query": "Türk kahvesi seven birine hediye arıyorum, stokta olsun",
+  "timestamp": "2026-08-14T00:27:59.133173+00:00",
+  "extracted_criteria": {
+    "budget": null,
+    "quantity": 1,
+    "min_rating": null,
+    "in_stock_only": true,
+    "keywords": ["kahve", "cezve", "coffee", "turkish coffee", "turk kahvesi"]
+  },
+  "candidates_evaluated": 1,
+  "recommendations": [
+    {
+      "id": "ALF-0025",
+      "title": "Hammered Solid Copper Stovetop Teapot, 1.6 Quart",
+      "price": 109.0,
+      "currency": "USD",
+      "url": "https://alfiqcopper.com/products/hammered-solid-copper-teapot-wooden-handle",
+      "stock_status": "in_stock",
+      "rating": 4.5,
+      "review_count": 15,
+      "reason": "Türk kahvesi seven birine hediye olarak bu bakır çaydanlık (cezve) harika bir seçenektir. Bakır yapısı ısı dağılımını mükemmel sağlar ve Türk kahvesi yapımında geleneksel kullanımına uygun, kaliteli bir hediye sunar."
+    }
+  ]
+}
