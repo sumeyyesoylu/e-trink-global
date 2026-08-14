@@ -1,38 +1,27 @@
 {
-  "query": "Bir spa işletmesi için 300 dolar bütçeyle 2 ürün öner",
-  "timestamp": "2026-08-14T00:27:56.086697+00:00",
-  "extracted_criteria": {
-    "budget": 300.0,
-    "quantity": 2,
+  "user_query": "Bir spa işletmesi için 300 dolar bütçeyle 2 ürün öner",
+  "criteria": {
+    "max_total_budget": 300.0,
+    "number_of_products": 2,
     "min_rating": null,
-    "in_stock_only": false,
-    "keywords": ["spa", "massage", "wellness", "sauna", "terapi"]
+    "category_keywords": ["spa", "massage", "wellness", "sauna"],
+    "require_in_stock": false
   },
-  "candidates_evaluated": 2,
-  "total_basket_price": 276.0,
-  "budget_remaining": 24.0,
   "recommendations": [
     {
       "id": "ALF-0013",
-      "title": "Solid Copper Massage Oil Warmer Pot Set - Ayurveda Therapy Spa Accessory",
-      "price": 128.0,
-      "currency": "USD",
+      "name": "Solid Copper Massage Oil Warmer Pot Set - Ayurveda Therapy Spa Accessory",
+      "price": 128.00,
       "url": "https://alfiqcopper.com/products/solid-copper-massage-oil-warmer-ayurveda-tool",
-      "stock_status": "in_stock",
-      "rating": 4.6,
-      "review_count": 18,
-      "reason": "Masaj yağı ısıtıcısı seti, spa işletmenizde müşterilerin rahatlamasına yardımcı olacak ve Ayurveda terapisi için ideal bir seçenektir. Bakır malzeme ergonomik ve dayanıklıdır."
+      "reason": "Masaj yağı ısıtıcısı seti, spa işletmesi için rahatlatıcı masaj deneyimi sunar."
     },
     {
       "id": "ALF-0014",
-      "title": "Handmade Copper Sauna Bucket & Ladle Set - Luxury Spa & Hammam Accessories",
-      "price": 148.0,
-      "currency": "USD",
+      "name": "Handmade Copper Sauna Bucket & Ladle Set - Luxury Spa & Hammam Accessories",
+      "price": 148.00,
       "url": "https://alfiqcopper.com/products/handmade-copper-sauna-bucket-ladle-set",
-      "stock_status": "in_stock",
-      "rating": 4.8,
-      "review_count": 31,
-      "reason": "El yapımı bakır sauna kovası ve kepçe seti, lüks bir spa deneyimi sunmak için harika bir seçenektir. Sauna ve hammam ortamlarında kullanılmaya uygun ve müşteri memnuniyetini artıracaktır."
+      "reason": "Sauna kovası ve kepçe seti, lüks bir spa deneyimi için idealdir ve bütçeye uygun."
     }
-  ]
+  ],
+  "timestamp": "2026-08-14T10:10:52.123747+00:00"
 }
