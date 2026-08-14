@@ -1,25 +1,20 @@
 {
-  "query": "Türk kahvesi seven birine hediye arıyorum, stokta olsun",
-  "timestamp": "2026-08-14T00:27:59.133173+00:00",
-  "extracted_criteria": {
-    "budget": null,
-    "quantity": 1,
-    "min_rating": null,
-    "in_stock_only": true,
-    "keywords": ["kahve", "cezve", "coffee", "turkish coffee", "turk kahvesi"]
+  "user_query": "Türk kahvesi seven birine hediye arıyorum, stokta olsun",
+  "criteria": {
+    "max_total_budget": null,
+    "number_of_products": 1,
+    "min_rating": 4.0,
+    "category_keywords": ["kahve", "türk kahvesi", "turkish coffee", "cezve"],
+    "require_in_stock": true
   },
-  "candidates_evaluated": 1,
   "recommendations": [
     {
-      "id": "ALF-0025",
-      "title": "Hammered Solid Copper Stovetop Teapot, 1.6 Quart",
-      "price": 109.0,
-      "currency": "USD",
-      "url": "https://alfiqcopper.com/products/hammered-solid-copper-teapot-wooden-handle",
-      "stock_status": "in_stock",
-      "rating": 4.5,
-      "review_count": 15,
-      "reason": "Türk kahvesi seven birine hediye olarak bu bakır çaydanlık (cezve) harika bir seçenektir. Bakır yapısı ısı dağılımını mükemmel sağlar ve Türk kahvesi yapımında geleneksel kullanımına uygun, kaliteli bir hediye sunar."
+      "id": "ALF-0027",
+      "name": "Handcrafted Dark Copper Turkish Coffee Pot - Heavy Duty Turkish Coffee Maker",
+      "price": 88.00,
+      "url": "https://alfiqcopper.com/products/hand-hammered-copper-turkish-coffee-pot-handle-for-perfectly-brewed-coffee",
+      "reason": "Türk kahvesi seven birine hediye olarak bu el yapımı bakır Türk kahve cezvesi mükemmel bir seçenek olabilir. Hem kaliteli hem de şık bir ürün."
     }
-  ]
+  ],
+  "timestamp": "2026-08-14T10:10:58.576381+00:00"
 }
