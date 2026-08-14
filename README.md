@@ -59,3 +59,8 @@ Sistem şu özellikleri otomatik çıkarır:
 - Minimum rating (örn. "iyi puanlı" → 4.0)
 - Kategori anahtar kelimeleri
 - Stok gereksinimi
+
+
+## Demo Video
+
+[🎥 E-TRINK GLOBAL – Agentic E-Commerce Demo](https://drive.google.com/file/d/1gSgKiCaAgkj4SP4TcsAbML478k9eDAp8/view?usp=sharing)
