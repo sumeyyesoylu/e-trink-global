@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "ALF-0013",
+      "name": "Solid Copper Massage Oil Warmer Pot Set - Ayurveda Therapy Spa Accessory",
+      "url": "https://alfiqcopper.com/products/solid-copper-massage-oil-warmer-ayurveda-tool",
+      "price": 128.0,
+      "price_max": null,
+      "currency": "USD",
+      "stock_status": "in_stock",
+      "category": "spa wellness therapy",
+      "rating": 4.6,
+      "review_count": 18
+    },
+    {
+      "id": "ALF-0014",
+      "name": "Handmade Copper Sauna Bucket & Ladle Set - Luxury Spa & Hammam Accessories",
+      "url": "https://alfiqcopper.com/products/handmade-copper-sauna-bucket-ladle-set",
+      "price": 148.0,
+      "price_max": null,
+      "currency": "USD",
+      "stock_status": "in_stock",
+      "category": "spa sauna luxury accessories",
+      "rating": 4.8,
+      "review_count": 31
+    },
+    {
+      "id": "ALF-0015",
+      "name": "Handcrafted Hammered Copper Incense Burner - Dark Copper with Wooden Handle",
+      "url": "https://alfiqcopper.com/products/handcrafted-hammered-copper-incense-burner",
+      "price": 79.0,
+      "price_max": null,
+      "currency": "USD",
+      "stock_status": "in_stock",
+      "category": "decorative handcrafted gift",
+      "rating": 4.7,
+      "review_count": 23
+    },
+    {
+      "id": "ALF-0025",
+      "name": "Hammered Solid Copper Stovetop Teapot, 1.6 Quart",
+      "url": "https://alfiqcopper.com/products/hammered-solid-copper-teapot-wooden-handle",
+      "price": 109.0,
+      "price_max": null,
+      "currency": "USD",
+      "stock_status": "in_stock",
+      "category": "coffee tea kitchen",
+      "rating": 4.5,
+      "review_count": 15
+    }
+  ]
+}
