@@ -40,9 +40,10 @@ pip-delete-this-directory.txt
 *.swp
 *.swo
 *~
-.DS_Store
 
-# Project specific
-cache/
-logs/
-*.log
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - Runtime outputs
+outputs/
